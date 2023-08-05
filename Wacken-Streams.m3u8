@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:0,Faster-Harder (Magenta Musik Stream1)
+#EXTVLCOPT:network-caching=1000
+https://streaming.magentamusik.de/hls/live/573870/magentamusik1/index.m3u8
+#EXTINF:0,Louder (Magenta Musik Stream2)
+#EXTVLCOPT:network-caching=1000
+https://streaming.magentamusik.de/hls/live/573871/magentamusik2/index.m3u8
